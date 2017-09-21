@@ -1,6 +1,6 @@
 "use strict";
 
-app.controller('NavCtrl', function ($scope, AuthFactory, $window, $location, $SearchTermData) {
+app.controller('NavCtrl', function ($scope, AuthFactory, $window, $location, SearchTermData) {
 
   // Log Button Function
 
